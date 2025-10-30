@@ -8,5 +8,5 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || 'YASIYA-MD~dZBAGJDJ#jotvTi3TiFOCfjLkQO_byu7bpy5McWevf2sf-w898Ew'
+    SESSION_ID: process.env.SESSION_ID || 'YASIYA-MD~1dp0zSwS#FiAZT-LLmIw5HwD_jZNwkP9ccLM_wIvmjo7pRNlEpho'
 };
